@@ -6,6 +6,7 @@
   "author": "eddie.chen <chenghung0510@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "xmldom": "^0.1.27",
     "xpath": "^0.0.27"
   }
 }
