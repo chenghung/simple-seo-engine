@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:chenghung/simple-seo-engine.git",
   "author": "eddie.chen <chenghung0510@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xpath": "^0.0.27"
+  }
 }
