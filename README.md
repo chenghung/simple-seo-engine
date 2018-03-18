@@ -36,6 +36,8 @@
 	const rule5 = RuleFive.create();
 
 **custom rules**
+    
+    const { SeoRule } = require('simple-seo-engine');
 
     // custom rule
 	const tag = 'head';
